@@ -36,6 +36,10 @@ This map shows the Boston neighborhoods that contain a designated Main Street Di
 [![](thumbnails/map3.jpg)](https://ravjohn.github.io/Portfolio_F2021/fullsize/map3.pdf){target="_blank"}
 
 
+This map shows which community centers are within 500 m of a Main Street District, as designated by the City of Boston.
+
+[![](thumbnails/map12.jpg)](https://ravjohn.github.io/Portfolio_F2021/fullsize/map12.pdf){target="_blank"}
+
 These maps demonstrate the following skills:
 
 * Calculating and displaying relationships among point and polygon layers based on distance
